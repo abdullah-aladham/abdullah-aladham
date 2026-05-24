@@ -6,11 +6,11 @@
 <h3>Things I test with</h3>
 <p>
   <img alt="playwright" src="https://img.shields.io/badge/playwright-darkgreen?style=flat-square&logo=playwright" />
-  <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightcyan?style=flat-square&logo=cypress&labelColor=white" /> 
+  <img alt="Cypress" src="https://img.shields.io/badge/cypress-lightcyan?style=flat-square&logo=cypress" /> 
   <img alt="typescript" src="https://img.shields.io/badge/typescript-lightblue?style=flat-square&logo=typescript" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/manual_testing-black?style=flat-square&labelColor=white" alt="manual testing">
-  <img src="https://img.shields.io/badge/Automation_testing-blue?style=flat-square&labelColor=white" alt="automation testing">
+  <img src="https://img.shields.io/badge/manual_testing-black?style=flat-square" alt="manual testing">
+  <img src="https://img.shields.io/badge/Automation_testing-blue?style=flat-square" alt="automation testing">
 
 </p>
 <h3>Open source projects</h3>
