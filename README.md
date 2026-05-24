@@ -2,7 +2,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Abdullah, QA Engineer from <span class="fi fi-ps"></span> <b>Nablus, Palestine</b>, currently living in 🇵🇸 <b>Nablus, Palestine</b>. </p>
+<p>Welcome to my page! </br> I'm Abdullah, QA Engineerin Progress ,who aims to Ensure Software Quality Through Manual & Automated Testing and aspiring Future Team Lead from<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/7c3363c4-2410-45cc-a914-21a17f9b0449" />
+ <b>Nablus, Palestine</b>, currently living in <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/41874d44-d8c2-46d8-b139-053fd26698b6" />
+ <b>Nablus, Palestine</b>. </p>
 <h3>Things I test with</h3>
 <p>
   <img alt="playwright" src="https://img.shields.io/badge/playwright-darkgreen?style=flat-square&logo=playwright" />
@@ -26,15 +28,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/abdullah-aladham/Practice-Software-testing-PW3"><b>Practice-Software-testing-PW</b></a></td>
+      <td><a href="https://github.com/abdullah-aladham/Practice-Software-testing-PW3"><b>Practice-Software-testing-PW3</b></a></td>
       <td>0</td>
       <td>0</td>
 		<td><img src="https://img.shields.io/badge/Working-orange?style=flat-square"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abdullah-aladham/automationStore-CypressTS"><b>automationStore-CypressTS</b></a></td>
+      <td>6 forks</td>
+      <td> PRs</td>
+		  	  <td><img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square"</td>
     </tr>
     <tr>
       <td><a href="https://github.com/abdullah-aladham/orangehrm-pw2/tree/abdullah-aladham"><b>OrangeHrm-pw2</b></a></td>
